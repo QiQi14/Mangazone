@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mangazone.iml" filepath="$PROJECT_DIR$/.idea/Mangazone.iml" />
       <module fileurl="file://D:\Study\Project1\mangazone\Mangazone.iml" filepath="D:\Study\Project1\mangazone\Mangazone.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\Study\Project1\mangazone\app\app.iml" filepath="D:\Study\Project1\mangazone\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/mangazone.iml" filepath="$PROJECT_DIR$/.idea/mangazone.iml" />
+      <module fileurl="file://D:\PROJECT\Manga\Mangazone\app\app.iml" filepath="D:\PROJECT\Manga\Mangazone\app\app.iml" />
+      <module fileurl="file://D:\PROJECT\Manga\Mangazone\.idea\mangazone.iml" filepath="D:\PROJECT\Manga\Mangazone\.idea\mangazone.iml" />
     </modules>
   </component>
 </project>
