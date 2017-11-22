@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Mangazone</string>
     <string name="title">Mangazone</string>
+    <string name="Email">Email</string>
+    <string name="Password">Mật khẩu</string>
+    <string name="Account">Tên Đăng Nhập</string>
+    <string name="Register">Đăng Ký</string>
+    <string name="HaveAccount">Bạn đã có tài khoản? Hãy Đăng Nhập</string>
 </resources>
